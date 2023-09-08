@@ -1,7 +1,7 @@
-body{
+.the-wallpaper{
     background-color: rgba(149, 255, 35, 0.516); 
 }
-html{
+.sliding{
     scroll-behavior: smooth;
 }
 .background-image{
@@ -41,14 +41,14 @@ html{
     background-color: rgba(80, 229, 255, 0.401);
     color: rgba(174, 15, 253, 0.895);
 }
-h1{
+.important-header{
     display: flex;
     justify-content: center;
     align-items: center;
     margin-top: 45px;
 
 }
-p{
+.text{
     display: flex;
     justify-content: center;
     align-items: center; 

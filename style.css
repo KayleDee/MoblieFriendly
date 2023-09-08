@@ -6,7 +6,6 @@
 }
 .background-image{
     background-image: url(https://th.bing.com/th/id/OIP.EYbtSJY0NzZDkfECM29pBwHaD4?w=329&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7);
-
     min-height: 430px;
     background-position: center;
     background-repeat: no-repeat;
@@ -14,7 +13,7 @@
     position: relative;
 
 }
-.Box{
+.container{
     position: absolute;
     margin: 5px;
     width: auto;
@@ -41,7 +40,7 @@
     background-color: rgba(80, 229, 255, 0.401);
     color: rgba(174, 15, 253, 0.895);
 }
-.important-header{
+.potatos{
     display: flex;
     justify-content: center;
     align-items: center;
